@@ -1,2 +1,2 @@
-# Tokol
-Toko Online DistroIT dengan PHP native, MySQLi dan Bootstrap 3
+# Rita Catering
+Website Pemesanan Makanan Online dengan menggunakan PHP (Native), HTML, Bootstrap 3, dan Javascript
